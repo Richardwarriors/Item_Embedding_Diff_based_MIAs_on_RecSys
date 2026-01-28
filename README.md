@@ -1,6 +1,6 @@
-Based on your focus on **RecSys 2025** and the specific term **RecPS**, you are looking for the code associated with the paper **"RecPS: Privacy Risk Scoring for Recommender Systems"**.
 
-The paper was accepted to **RecSys 2025** and is authored by **Hongsheng Hu** et al.
+
+The paper was accepted to **RecSys 2025** and is authored by **Jiajie He** et al.
 
 Below is the information regarding the repository and a reconstruction of what the README contains based on the available project documentation.
 
